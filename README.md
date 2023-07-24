@@ -1,5 +1,5 @@
 # Demo-aks-terraform
-Demo AKS Infra setup
+Demo AKS Infra setup with terrafom modules
 
 ## Features
 - Azure AD integration
